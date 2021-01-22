@@ -26,7 +26,7 @@
   "require": {
     "php":"^7.2",
     "ext-json": "*",
-    "ramsey/uuid": "^3.5",
+    "ramsey/uuid": "^3.5 || ^4.0",
     "TrafficCophp/ByteBuffer": "^0.3",
     "google/protobuf": "^3.2",
     "reactivex/rxphp": "^2.0",
